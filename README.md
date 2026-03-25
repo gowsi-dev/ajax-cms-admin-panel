@@ -70,7 +70,7 @@ This project was built to demonstrate asynchronous CRUD operations and backend i
 
 ## 🙌 Author
 
-Sara  
+Gowsalya Ponsekar  
 Self-taught developer | GSoC 2026 aspirant
 
 ---
